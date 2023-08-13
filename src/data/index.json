@@ -1,0 +1,123 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./checkmark.png",
+      "title": "HTML",
+      "level": "Experienced",
+      "category": "frontend"
+    },
+    {
+      "id": "2",
+      "src": "./checkmark.png",
+      "title": "CSS",
+      "level": "Experienced",
+      "category": "frontend"
+    },
+    {
+      "id": "3",
+      "src": "./checkmark.png",
+      "title": "SASS",
+      "level": "Intermediate",
+      "category": "frontend"
+    },
+    {
+      "id": "4",
+      "src": "./checkmark.png",
+      "title": "JavaScript",
+      "level": "Basic",
+      "category": "frontend"
+    },
+    {
+      "id": "5",
+      "src": "./checkmark.png",
+      "title": "TypeScript",
+      "level": "Basic",
+      "category": "frontend"
+    },
+    {
+      "id": "6",
+      "src": "./checkmark.png",
+      "title": "Material UI",
+      "level": "Intermediate",
+      "category": "frontend"
+    },
+    {
+      "id": "7",
+      "src": "./checkmark.png",
+      "title": "PostgreSQL",
+      "level": "Basic",
+      "category": "backend"
+    },
+    {
+      "id": "8",
+      "src": "./checkmark.png",
+      "title": "Node JS",
+      "level": "Intermediate",
+      "category": "backend"
+    },
+    {
+      "id": "9",
+      "src": "./checkmark.png",
+      "title": "Express JS",
+      "level": "Intermediate",
+      "category": "backend"
+    },
+    {
+      "id": "10",
+      "src": "./checkmark.png",
+      "title": "Git",
+      "level": "Intermediate",
+      "category": "backend"
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/placeholder-image.png",
+      "title": "Movie app",
+      "description": "Filmpare is an React based movie listing app with features such as adding Favourites and showing them in a separate section.",
+      "link": "https://kuwan-flix.netlify.app/"
+    },
+    {
+      "id": "2",
+      "src": "./img/placeholder-image-1.png",
+      "title": "Note app",
+      "description": "This is a web app built with React that can save,edit or delete notes to the computer's local storage. It also features a search bar.",
+      "link": "https://kunalnote.netlify.app/"
+    },
+    {
+      "id": "3",
+      "src": "./img/placeholder-image-2.png",
+      "title": "Crypto app",
+      "description": "Coiner is a React based web app that display latest information for your favorite crypto currency.It shows data in beautiful graph.",
+      "link": "https://crypto-tracker6.netlify.app/"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/avatar-image.png",
+      "description": "Kunal is exceptional in Java and React. His dedication to his work is truly commendable. He approaches projects with sincerity and consistently delivers results on time. Working with Kunal has been a pleasure, and his expertise has significantly contributed to the success of our projects.",
+      "author_name": "Aman Raj",
+      "author_designation": "Delhi"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/avatar-image-1.png",
+      "description": "Mr. Kunal Kashyap has been an epitome of diligence since the very first time I met him in school. He has consistently been a high achiever, maintaining his po His passion for excellence transcends into his professional life, particularly in the field of frontend development. ",
+      "author_name": "Rohan Rajput",
+      "author_designation": "Kolkata"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/avatar-image-2.png",
+      "description": "I had the privilege of teaching Kunal  in the 2022 DSA interview preparation batch, his dedication and consistency stood out remarkably throughout the program. In just three months, he impressively tackled around 250 LeetCode questions, showcasing his unwavering commitment.",
+       "author_name": "Anuj Bhaiya",
+      "author_designation": "Delhi"
+    }
+  ]
+}
